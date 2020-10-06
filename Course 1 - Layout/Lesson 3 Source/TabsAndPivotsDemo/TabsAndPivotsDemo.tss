@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\daren\Documents\Visual Studio 2015\Projects\TabsAndPivotsDemo\TabsAndPivotsDemo\Views\MainPage.xaml</string>
+      <string>c:\users\daren\documents\visual studio 2015\projects\tabsandpivotsdemo\tabsandpivotsdemo\views\mainpage.xaml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Program Files (x86)\Windows Kits\10\DesignTime\CommonConfiguration\Neutral\UAP\10.0.10240.0\Generic\generic.xaml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\daren\documents\visual studio 2015\projects\tabsandpivotsdemo\tabsandpivotsdemo\controls\pivotautoheightheader.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\daren\documents\visual studio 2015\projects\tabsandpivotsdemo\tabsandpivotsdemo\controls\tabheader.xaml</string>
+      <string>c:\users\daren\documents\visual studio 2015\projects\tabsandpivotsdemo\tabsandpivotsdemo\controls\tabheader.xaml.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\daren\documents\visual studio 2015\projects\tabsandpivotsdemo\tabsandpivotsdemo\app.xaml</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
